@@ -1,0 +1,38 @@
+.error {
+  color: rgb(240, 55, 55);
+  font-size: 13px;
+}
+
+.bolder {
+  font-weight: bolder;
+  font-size: xx-large;
+  color: rgb(57, 57, 59)
+}
+
+.fs-6 {
+  font-size: 12px;
+}
+
+.ms-n5 {
+  margin-left: -20vh;
+  margin-top: -2vh;
+}
+.mt-7{
+  margin-top: 15vh !important;
+}
+
+.dark-btn {
+  background: #0979cc !important;
+  color: white !important;
+}
+
+.txt-light {
+  color: rgb(162, 164, 166);
+  text-align: center;
+}
+
+.txt-small {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(140, 140, 144);
+}
